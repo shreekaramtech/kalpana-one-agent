@@ -1,6 +1,7 @@
 ---
 name: create-creative-batch
-description: Use whenever the user wants to work with Kalpana: browse or find design templates, turn a list or spreadsheet into personalized images (one design per row), pick images from their asset library, or check on batches and download finished designs. Covers building renderer-ready rows, validating them, creating a batch, running it with credit confirmation, and handling access errors.
+description: >-
+  Use whenever the user wants to work with Kalpana: browse or find design templates, turn a list or spreadsheet into personalized images (one design per row), pick images from their asset library, or check on batches and download finished designs. Covers building renderer-ready rows, validating them, creating a batch, running it with credit confirmation, and handling access errors.
 ---
 
 # Kalpana: templates to personalized designs
