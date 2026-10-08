@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kalpana": {
+      "type": "http",
+      "url": "https://mcp.kalpana.one/mcp"
+    }
+  }
+}

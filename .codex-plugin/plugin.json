@@ -1,0 +1,43 @@
+{
+  "name": "kalpana-one",
+  "version": "1.0.0",
+  "description": "Fill your Kalpana One templates from a list or spreadsheet and render personalized banners, ads and listing images in bulk.",
+  "author": {
+    "name": "Shreekaram Technologies",
+    "email": "support@kalpana.one",
+    "url": "https://kalpana.one"
+  },
+  "homepage": "https://kalpana.one",
+  "repository": "https://github.com/shreekaramtech/kalpana-one-agent",
+  "keywords": [
+    "creative automation",
+    "templates",
+    "batch rendering",
+    "marketing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Kalpana One",
+    "shortDescription": "Personalized visual campaigns",
+    "longDescription": "Find your Kalpana still-image templates, turn a list or spreadsheet into validated personalized rows, create a draft batch, run it after confirming the credit cost, and retrieve the generated images.",
+    "developerName": "Shreekaram Technologies",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/composer-icon.png",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://kalpana.one",
+    "privacyPolicyURL": "https://kalpana.one/privacy",
+    "termsOfServiceURL": "https://kalpana.one/terms",
+    "defaultPrompt": [
+      "Show my latest Kalpana batches and their status.",
+      "Find a Kalpana template for my next campaign.",
+      "Help me create a personalized creative batch."
+    ],
+    "brandColor": "#008568"
+  },
+  "mcpServers": "./.mcp.json",
+  "license": "MIT"
+}
